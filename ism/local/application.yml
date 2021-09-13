@@ -1,1 +1,3 @@
-foo.bar.app.profile: local 
+foo.bar: ism local app foo bar
+foo.bar.app: ism local app
+foo.bar.app.profile: local profile
